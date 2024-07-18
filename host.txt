@@ -1,0 +1,24 @@
+Gmail Account {
+  email: onlinelampstore@gmail.com
+  password: OnlineLampStore01
+}
+
+000webhost Account {
+  email: (login using google account)
+  password: (login using google account)
+
+  created website account:
+    lampstoresystemlccproject
+    PassWord#123
+} 
+
+InfinityFree Account {
+email: onlinelampstore@gmail.com
+password: OnlineLampStore#01
+
+ created website account:
+   if0_34797787
+   QugPwfVc0Vd8gq
+   PassWord#123
+}
+
